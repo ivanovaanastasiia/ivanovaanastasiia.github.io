@@ -1,0 +1,31 @@
+
+body {
+    background-color: black
+    }
+.site-header .container {
+    min-height: 400px;
+    padding-top: 50px;
+    padding-bottom: 180px;
+    background-repeat: no-repeat;
+    background-position: 520px 130px;
+    }
+.container {
+    width: 1040px;
+    margin: 0 auto;
+    padding: 0;
+}
+.main-nav ul {
+  margin: 0;
+  margin-left: 130px;
+  padding: 0;
+  list-style: none;
+}
+
+.main-nav li {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+.main-nav a {
+  color: white;
+}
