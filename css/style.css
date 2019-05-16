@@ -1,7 +1,10 @@
 
 body {
     background-color: black
-    }
+  }
+p {
+    color:currentColor
+     }  
 .site-header .container {
     min-height: 400px;
     padding-top: 50px;
